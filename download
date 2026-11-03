@@ -1,0 +1,1 @@
+.env\n.env.*\n!.env.example\n.venv/\nvenv/\n__pycache__/\n*.py[cod]\n.pytest_cache/\nsecurity_monitor.db\n.DS_Store\n
